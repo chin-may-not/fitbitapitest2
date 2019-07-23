@@ -12,7 +12,7 @@ $dbname = "dbname"; // MySQL DB Name
 // Other Configuration Parameters
 
 // Replace the Redirect URL with your setup
-$config_redirect_uri = "https://exain.com/fitbit/token.php";
+$config_redirect_uri = "https://github.com/chin-may-not/fitbitapitest2/token.php";
 
 
 $config_oauth_url = "https://www.fitbit.com/oauth2/authorize";
